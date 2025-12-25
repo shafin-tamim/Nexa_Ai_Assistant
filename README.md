@@ -99,7 +99,6 @@ echo GOOGLE_API_KEY="your_api_key_here" > .env
 
 # Run application
 streamlit run app.py
-```
 
 ## 📁 Project Structure
 
@@ -172,42 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **pyttsx3** - For text-to-speech synthesis
 - **Wikipedia API** - For knowledge integration
 
-## 📧 Contact & Support
-
-- **Author**: Shafin Tamim
-- **Email**: [your-email@example.com]
-- **GitHub**: [github.com/your-username]
-- **Issues**: [Report bugs here](https://github.com/yourusername/Nexa_Ai_Assistant/issues)
-
-## 🗺️ Roadmap
-
-- [ ] Multi-language support
-- [ ] Email integration
-- [ ] Calendar event creation
-- [ ] Weather forecasts
-- [ ] News summaries
-- [ ] Custom voice profiles
-- [ ] Mobile app
-- [ ] Cloud deployment
-- [ ] Database integration for persistent memory
-- [ ] Advanced NLP features
-
-## 🎓 Learning Resources
-
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Google Gemini API Docs](https://ai.google.dev/docs)
-- [Speech Recognition Library](https://github.com/Uberi/speech_recognition)
-- [pyttsx3 Documentation](https://pyttsx3.readthedocs.io/)
-
-## 💡 Tips & Tricks
-
-1. **Faster Setup**: Use the automated `setup_conda.bat` (Windows) or `setup_conda.sh` (Linux/Mac)
-2. **Custom Environment**: Use `python create_env.py custom-name` for custom names
-3. **Voice Accuracy**: Speak clearly and reduce background noise
-4. **API Optimization**: Cache responses for repeated queries
-5. **Multiple Roles**: Switch roles for different use cases
-
----
 
 **Made with ❤️ by Shafin Tamim**
 
