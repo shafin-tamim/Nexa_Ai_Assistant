@@ -240,6 +240,7 @@ if speak_button:
 st.divider()
 st.markdown(
     "<div style='text-align: center; color: gray; font-size: 12px;'>"
-    "🤖 NEXA AI Assistant v1.0 | Powered by Gemini AI</div>",
+    "🤖 NEXA AI Assistant v1.0 | Powered by Gemini AI | Copyright © 2025 Shafin Tamim</div>",
+    
     unsafe_allow_html=True
 )
